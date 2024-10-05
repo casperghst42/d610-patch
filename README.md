@@ -2,6 +2,10 @@
 
 Makes it possible to set unsupported vidio resolutions with intel chipset.
 
+Original by Leslie Chu <kongkong_chu@yahoo.ca>, websites listed in the source are no longer available.
+
+I will remove repository if being asked to do so by the original author.
+
 Old, source code no longer exist anywhere else online (to my knowledge). 
 
 ```
