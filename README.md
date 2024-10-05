@@ -4,6 +4,7 @@ Makes it possible to set unsupported vidio resolutions with intel chipset.
 
 Old, source code no longer exist anywhere else online (to my knowledge). 
 
+```
 /*  resolution patch for 845G/855GM/865G
 *
 *       Fixes the i810-series video BIOS to support other resolution
@@ -31,3 +32,4 @@ Old, source code no longer exist anywhere else online (to my knowledge).
 *         http://www.leog.net/fujp_forum/topic.asp?TOPIC_ID=5371
 *
 */
+```
